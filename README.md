@@ -19,9 +19,10 @@ conda activate cpullama
 
 pip install -r requirements.txt
 
+## Download the Llama 2 Model:
+Details : how to download in model/instruction.txt
 Note :
-You need to upload (in app.py   --> DirectoryLoader  --> path ) any PDF to get result .
-
+You need to upload (in app.py   --> DirectoryLoader  --> path ) any PDF to get result.
 
 
 # Flow
